@@ -1,0 +1,3 @@
+invoke-rc.d networking restart
+/etc/delay
+/etc/rc.local

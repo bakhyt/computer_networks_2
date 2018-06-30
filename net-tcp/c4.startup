@@ -1,0 +1,2 @@
+invoke-rc.d networking restart
+invoke-rc.d inetd restart
